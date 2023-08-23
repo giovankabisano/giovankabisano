@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Hello!
 
-<!--
-**giovankabisano/giovankabisano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me **Ivan**.
+I'm a Full Stack Engineers, Expert in Android Development.
+I work with Kotlin & React Ecosystem (React JS & React Native), and write in order to educate individuals on reconstructing and reshaping core ideas using mental frameworks.
 
-Here are some ideas to get you started:
+Also, let's connect on twitter! Feel free to dm me for discussion!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/th_clarence.svg?style=social&label=Follow%20%40giovankov)](https://twitter.com/giovankov)
+![Profile views](https://komarev.com/ghpvc/?username=giovankabisano&color=gray)
+
+
+## Statistics
+
+<div>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&langs_count=6" />
+</div>
