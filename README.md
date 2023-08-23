@@ -13,5 +13,5 @@ Also, let's connect on twitter! Feel free to dm me for discussion!
 ## Statistics
 
 <div>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&langs_count=6" />
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovankabisano&layout=compact&theme=react&hide=php&langs_count=6" />
 </div>
